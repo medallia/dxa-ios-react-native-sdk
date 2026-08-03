@@ -10,11 +10,11 @@
 		</data>
 		<key>Headers/MedalliaDXAReactNative-Swift.h</key>
 		<data>
-		a4s89lmOW1kEig3/NTrGAsQZzYI=
+		/8V7gny2HuCuuTnuH3zuUeYrBqY=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		SwXgqoWQ81xOjBbKcJ/GdT8MCu8=
+		l4uRcXJBCUzChKVogaRO1HYO1Rc=
 		</data>
 		<key>Modules/MedalliaDXAReactNative.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -22,19 +22,19 @@
 		</data>
 		<key>Modules/MedalliaDXAReactNative.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		Yh29+CxWAstKsT+E2EjaBC2RlNo=
+		r/B/5ekXxfGrhswNxImpQ7ez9ZM=
 		</data>
 		<key>Modules/MedalliaDXAReactNative.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		yEFxn0kHPxyvzTDsztk/0nF2L/A=
+		TTGF7EFsPa/WgvnuYf7ZJFSedUg=
 		</data>
 		<key>Modules/MedalliaDXAReactNative.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		Yh29+CxWAstKsT+E2EjaBC2RlNo=
+		r/B/5ekXxfGrhswNxImpQ7ez9ZM=
 		</data>
 		<key>Modules/MedalliaDXAReactNative.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		4EpXSadcBXyXDZTWuuJiMfJn1mI=
+		XP3YXneIr/r1rdCWjSnxsv9FZkY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -54,7 +54,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qIPlZF6rbRJvrdTZxMPycAU449EeCGtdzOEfWccX1VU=
+			Ndx+epI+Qg798rTFZC5RdJ3Ll1/Xm03u1JeMh+d9oO0=
 			</data>
 		</dict>
 		<key>Modules/MedalliaDXAReactNative.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -68,28 +68,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ABJUAe9PCTFzYOezAdL9b++addFoCY9BCwzv5TfOiP4=
+			CMa3BO4Xb78JZi+86u44RkCbZ2WSgaWkcLS3yvlCQZA=
 			</data>
 		</dict>
 		<key>Modules/MedalliaDXAReactNative.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WH68xnGMkAaY/HJqVmijWr1qJeE52yteCdphjYhbjus=
+			NeWzT+DeJGLxzKkssQC8J/Hbk8G4i24JB8cbpQEeyoQ=
 			</data>
 		</dict>
 		<key>Modules/MedalliaDXAReactNative.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ABJUAe9PCTFzYOezAdL9b++addFoCY9BCwzv5TfOiP4=
+			CMa3BO4Xb78JZi+86u44RkCbZ2WSgaWkcLS3yvlCQZA=
 			</data>
 		</dict>
 		<key>Modules/MedalliaDXAReactNative.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VvJwEjprrMzUWfFq9zW7ceLyoy51fQ1OmdIBal5a3Ks=
+			7ClidPhA57lDRMOemqz1hGPjpIZ68uBX1JvK8XDfg8I=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
