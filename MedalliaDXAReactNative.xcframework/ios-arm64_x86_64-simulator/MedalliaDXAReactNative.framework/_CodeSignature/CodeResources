@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		9bG1sJdJ+gysdG1BI1GaiADwPwM=
+		oirMeEVJJJnCiSiUCld5kzSYAQk=
 		</data>
 		<key>Modules/MedalliaDXAReactNative.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/MedalliaDXAReactNative.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Qf7s+AIbbVwdRCU1pldjmd+vykQ=
+		Zkj+nQ/RdxqMEqWjGrh7HDopuag=
 		</data>
 		<key>Modules/MedalliaDXAReactNative.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/MedalliaDXAReactNative.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		OsUcwApHSIlXbxrwp+HI9tUN/yk=
+		yBQ228ZNAuEX00DLRns9tJi5K0Y=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -109,7 +109,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pGglICyFgDOwb9U+0S5OtOw4MFERnJmOXQMNvWeM3c8=
+			ocb5riwixa6ThrpUeUZBmeF7C5GfqriZneCxqMbMdgg=
 			</data>
 		</dict>
 		<key>Modules/MedalliaDXAReactNative.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -144,7 +144,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IlT/Qb+g9Ncg+/PDgBkYAOwfHT7616mIfdiI7ojiwv4=
+			QPbjv9guHh9zeObNVFOgcG/4v/FekLu7lvu7Bf0jE1Q=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
