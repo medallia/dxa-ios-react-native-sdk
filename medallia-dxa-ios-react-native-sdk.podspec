@@ -4,7 +4,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "medallia-dxa-ios-react-native-sdk"
-  s.version          = "4.0.3"
+  s.version          = "4.0.4"
   s.summary          = "Medallia DXA iOS SDK (React Native)"
   s.description      = "React Native variant of Medallia DXA SDK for iOS. Supports iOS 15.0 and above."
   s.homepage         = "https://github.com/medallia/dxa-ios-react-native-sdk"
